@@ -1,2 +1,2 @@
-# sentry-payload-fields
+# sentry-body-fields
 This script will download a specific field or list of fields for every event body of an issue as a csv
