@@ -9,4 +9,4 @@ This script will download a specific field or list of fields for every event bod
 A csv file with <field_1> and <field_2> of all events for given issue_id
 
 ## Why?
-The other day I needed to recover an specific field of all the body events of an issue I had at work... and this could definitely happen again (I hope it don't)
+The other day I had to recover an specific field of all the body events of an issue I had at work... and this could definitely happen again (Let's hope it doesn't)
